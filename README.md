@@ -1,3 +1,7 @@
+# Now located at https://github.com/srcery-colors/srcery-insomnia
+
+---
+
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/milogert/insomnia-plugin-theme-srcery/master/assets/icon-48x48.svg" />
   <div>Srcery for Insomnia</div>
